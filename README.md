@@ -1,2 +1,2 @@
 # AI_final_project
-Implementation of a Genetic Algorithm
+Implementation of Genetic Algorithm
